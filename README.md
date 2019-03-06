@@ -1,2 +1,2 @@
 # naivebayes-classifier
-Simple category classification example using Naive Bayes.
+Simple category classification using multiple input columns example using Naive Bayes.
